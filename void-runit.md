@@ -9,8 +9,8 @@ This little guide also contains references to `systemctl`, to help people who ju
   
 I use **servicename** as the service I'm handling with the commands; Obviously change it to what you need to manage.  
   
-# basic usage
-  
+<h2>basic usage</h2>
+
 `sv` is runit's program to handle services.  
 *Services* are stored in two directories on Void:  
 `/etc/sv/` is where services end after being installed by *xbps*.  
@@ -34,6 +34,6 @@ To disable (**and stop**) a service, it's just the opposite: remove the symlink.
 In order to know the status, start, stop, or restart a service, like you do with systemd using `systemctl status/start/stop/restart **servicename**` just use `sv status/start/stop/restart **servicename**`  
 Yes, it's the same.  
   
-# Runlevels
+<h2>Runlevels</h2>
   
 I will write this later. ***Now is the time of lunch.***
