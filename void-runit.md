@@ -18,18 +18,18 @@ I use **servicename** as the service I'm handling with the commands; Obviously c
 *sv* actually considers the services in the second directory as those "enabled" (they are also run at boot)  
 
 To see which services are **available**:  
-> ls /etc/sv/  
+<pre>ls /etc/sv/</pre>  
   
 To see what modules are **enabled**:  
-> ls /var/service/  
+<pre>ls /var/service/</pre>  
   
 To enable a service, just create a symlink:  
-> ln -s /etc/sv/<b>servicename</b> /var/service/ 
+<pre>ln -s /etc/sv/<b>servicename</b> /var/service/</pre>  
 This is the same as doing *systemctl enable* ***servicename*** on systemd.  
 Please note that doing this also starts the service.  
 
 To disable (**and stop**) a service, it's just the opposite: remove the symlink.  
-> rm -r /var/service/<b>servicename</b>  
+<pre>rm -r /var/service/<b>servicename</b></pre>  
   
 In order to know the status, start, stop, or restart a service, like you do with systemd using `systemctl status/start/stop/restart servicename` just use `sv status/start/stop/restart servicename`  
 Yes, it's the same.  
