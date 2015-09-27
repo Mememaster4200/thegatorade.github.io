@@ -31,7 +31,10 @@ Please note that doing this also starts the service.
 To disable (**and stop**) a service, it's just the opposite: remove the symlink.  
 <pre>rm -r /var/service/<b>servicename</b></pre>  
   
-In order to know the status, start, stop, or restart a service, like you do with systemd using `systemctl status/start/stop/restart servicename` just use `sv status/start/stop/restart servicename`  
+In order to know the status, start, stop, or restart a service, like you do with systemd using  
+`systemctl status/start/stop/restart servicename`  
+just use  
+`sv status/start/stop/restart servicename`   
 Yes, it's the same.  
   
 <h2>Runlevels</h2>
