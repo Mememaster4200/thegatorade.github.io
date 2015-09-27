@@ -23,12 +23,12 @@ To see which services are **available**:
 To see what modules are **enabled**:  
 `ls /var/service/`  
   
-To enable a service, just create a symlink:
-`ln -s /etc/sv/`**servicename**` /var/service/`  
+To enable a service, just create a symlink:  
+`ln -s /etc/sv/`**servicename**` /var/service/` 
 This is the same as doing `systemctl enable` **servicename** on systemd.  
 Please note that doing this also starts the service.  
 
-To disable (**and stop**) a service, it's just the opposite: remove the symlink.
+To disable (**and stop**) a service, it's just the opposite: remove the symlink.  
 `rm -r /var/service/`**servicename**  
   
 In order to know the status, start, stop, or restart a service, like you do with systemd using `systemctl status/start/stop/restart` **servicename** just use `sv status/start/stop/restart `**servicename**  
