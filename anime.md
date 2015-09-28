@@ -32,17 +32,17 @@ Gli onorifici sono suffissi che vengono aggiunti ai nomi di persona e indicano u
 Sono usatissimi, e abbastanza necessari per poter capire i personaggi.
 Ecco i principali:
 
-* Senpai
+* Senpai  
 	Viene usato per indicare persone più vecchie di chi parla.
 	Ad esempio, un frequentatore del primo anno di una scuola si riferisce a un suo superiore come senpai.
 	Il contrario è kohai, poco usato.  
-* San
+* San  
 	L'onorifico più usato, indica generlmente persone sullo stesso livello sociale.  
-* Sama
+* Sama  
 	Una versione più formale di -san.  
-* Kun
+* Kun  
 	Come san, ma generalmente usato per giovani maschi.  
-* Chan
+* Chan  
 	Uno dei più usati negli anime, indica persone più piccole, anche bambini, ma di solito si usa per fare tenerezza.
 	Le forme più usate: onee-chan "sorellina", oniichan "fratellino"  
 
