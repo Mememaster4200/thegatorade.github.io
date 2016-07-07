@@ -5,7 +5,7 @@ title: CasaPau Guida 2016
 
 <h1>Casa Pau</h1> 
   
->hmmm de la memes  
+<pre>hmmm de la memes</pre>  
   
 <h2>Che succ?</h2>
   
