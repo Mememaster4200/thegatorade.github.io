@@ -24,7 +24,7 @@ Dal 31 luglio al 20 agosto, casa mia sarà libera (ovvero con solo me dentro) e 
 * Facoltativo:  
 	* Cibo/bevande (non sono molto fornito, sappiatelo)  
 	* Se fai uso di droghe, le droghe a scelta (probabilmente non ne avrò)  
-	* Aggeggi qualsiasi con cui divertirsi in gruppo, a libera scelta  
+	* Aggeggi qualsiasi con cui divertirsi in gruppo, a libera scelta, anche Steam Controller  
 	* Qulalsiasi stronzata in realtà, fate voi.
 	* Gente.  
     
