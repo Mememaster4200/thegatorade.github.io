@@ -38,8 +38,10 @@ Abito in [45°19'55.7"N 7°37'46.3"E](https://www.google.it/maps/place/45°19'55
 Per arrivare, dovete prima andare a Torino e arrivare alla stazione di [Via Fiochetto](https://www.google.it/maps/place/Gruppo+Torinese+Trasporti+SP+A./@45.06649,7.6878596,13.48z/).  
 Usate Google Maps e [LeFrecce](https://www.lefrecce.it) per pianificare il tragitto.  
 Una volta in stazione, dovete prendere l'autobus alla corsia 8 per Forno, vedasi [questo PDF](http://www.gtt.to.it/cms/risorse/intercomunale/oraripdf/3092.pdf), o che potete controllare con le app per Android:  
-* [free software su F-Droid (consigliato)](https://f-droid.org/repo/it.reyboz.bustorino_19.apk) *oppure*  
-* [proprietaria GTT](https://play.google.com/store/apps/details?id=it.fivet.gttmobile)  
+
++ [free software su F-Droid (consigliato)](https://f-droid.org/repo/it.reyboz.bustorino_19.apk) *oppure*  
++ [proprietaria GTT](https://play.google.com/store/apps/details?id=it.fivet.gttmobile)  
+
 inserendo la fermata **10001** e guardando la corsa **3092**.  
   
 Scendere alla fermata "S. Bernardino" a Rivara, la maggior parte degli autobus hanno lo schermetto con la fermata. Potete anche controllare l'orario esatto in cui l'autobus arriva alla mia fermata, con una delle app di cui sopra, mettendo la fermata **14248** (e sapendo che il viaggio dura circa 57-61 minuti)  
