@@ -2,8 +2,6 @@
 layout: default
 title: CasaPau Guida 2016
 ---
-
-<h1>Casa Pau</h1> 
   
 <pre>hmmm de la memes</pre>  
   
