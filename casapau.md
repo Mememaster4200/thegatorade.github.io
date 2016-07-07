@@ -15,6 +15,7 @@ Dal 31 luglio al 20 agosto, casa mia sarà libera (ovvero con solo me dentro) e 
 * Preferirei non scopaste a casa mia. Quasi tutto il resto è OK!  
 * Potrebbe esserci, o potrebbe non esserci, gente. Siate preparati.  
 * La connessione a Internet è pessima. Comunque, è sufficiente per youtube e netflix (che ho) e la maggior parte delle cose avverranno offline o in LAN. :)  
+* Ho posti letto infiniti, gratis.  
   
 <h2>Cosa devo portare?</h2>
   
