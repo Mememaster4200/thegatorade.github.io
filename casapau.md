@@ -12,8 +12,7 @@ Dal 31 luglio al 20 agosto, casa mia sarà libera (ovvero con solo me dentro) e 
 <h2>Cosa devo sapere?</h2>
   
 * Sarebbe meglio se evitaste il 31 luglio e il 20 agosto, in quanto non so di preciso a che ora partono e tornano i miei.  
-* Casa Pau è Sex-Free Zone. Chiunque verrà sorpreso (sobrio\*) a tentare un rapporto sessuale verrà cacciato.  
-	* \**Regole speciali per drogati e ubriachi potrebbero essere applicate.*  
+* Preferirei non scopaste a casa mia. Quasi tutto il resto è OK!  
 * Potrebbe esserci, o potrebbe non esserci, gente. Siate preparati.  
 * La connessione a Internet è pessima. Comunque, è sufficiente per youtube e netflix (che ho) e la maggior parte delle cose avverranno offline o in LAN. :)  
   
