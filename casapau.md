@@ -2,7 +2,7 @@
 layout: default
 title: CasaPau Guida 2016
 ---
-  
+
 <pre>hmmm de la memes</pre>  
   
 <h2>Che succ?</h2>
@@ -20,22 +20,28 @@ Dal 31 luglio al 20 agosto, casa mia sarà libera (ovvero con solo me dentro) e 
 <h2>Cosa devo portare?</h2>
   
 * Obbligatorio:  
-	* Il tuo corpo per intero, cervello compreso  
+	* Tu stesso/a.  
 * Facoltativo:  
 	* Cibo/bevande (non sono molto fornito, sappiatelo)  
 	* Se fai uso di droghe, le droghe a scelta (probabilmente non ne avrò)  
 	* Aggeggi qualsiasi con cui divertirsi in gruppo, a libera scelta  
-	* Qulalsiasi stronzata in realtà, fate voi  
+	* Qulalsiasi stronzata in realtà, fate voi.
+	* Gente.  
     
 <h2>"Droga"?</h2>
   
-Sì, droga. Per quanto sia strano da credere, ci sono persone che ne fanno uso. Non sarò di certo io a limitare questa libertà fondamentale dentro casa mia, e ovviamente nessuno è costretto a fare niente, quindi anche se siete straight edge non fatevi problemi! Nessuno vi romperà le palle. Se lo fa lo caccio.  
+Sì, droga. Per quanto sia strano da credere, ci sono persone che ne fanno uso. Non sarò di certo io a limitare questa libertà fondamentale dentro casa mia, e ovviamente nessuno è costretto a fare niente, quindi anche se siete straight edge non fatevi problemi! Nessuno vi romperà le palle. Se lo fanno li caccio.  
   
 <h2>Come arrivare?</h2>
   
 Abito in [45°19'55.7"N 7°37'46.3"E](https://www.google.it/maps/place/45°19'55.7"N+7°37'46.3"E/@45.3321427,7.6273391,17z/).  
-Per arrivare, dovete prima andare a Torino e arrivare alla stazione di [Via Fiochetto](https://www.google.it/maps/place/Gruppo+Torinese+Trasporti+SP+A./@45.06649,7.6878596,13.48z/). Usate Google Maps e [LeFrecce](https://www.lefrecce.it) per pianificare il tragitto.  
-Una volta in stazione, dovete prendere l'autobus alla corsia 8 per Forno, vedasi [questo PDF](http://www.gtt.to.it/cms/risorse/intercomunale/oraripdf/3092.pdf), o che potete controllare con le app per Android: [proprietaria GTT](https://play.google.com/store/apps/details?id=it.fivet.gttmobile) oppure [free software su F-Droid (consigliato)](https://f-droid.org/repo/it.reyboz.bustorino_19.apk) inserendo la fermata **10001** e guardando la corsa **3092**.  
+Per arrivare, dovete prima andare a Torino e arrivare alla stazione di [Via Fiochetto](https://www.google.it/maps/place/Gruppo+Torinese+Trasporti+SP+A./@45.06649,7.6878596,13.48z/).  
+Usate Google Maps e [LeFrecce](https://www.lefrecce.it) per pianificare il tragitto.  
+Una volta in stazione, dovete prendere l'autobus alla corsia 8 per Forno, vedasi [questo PDF](http://www.gtt.to.it/cms/risorse/intercomunale/oraripdf/3092.pdf), o che potete controllare con le app per Android:  
+* [free software su F-Droid (consigliato)](https://f-droid.org/repo/it.reyboz.bustorino_19.apk) *oppure*  
+* [proprietaria GTT](https://play.google.com/store/apps/details?id=it.fivet.gttmobile)  
+inserendo la fermata **10001** e guardando la corsa **3092**.  
+  
 Scendere alla fermata "S. Bernardino" a Rivara, la maggior parte degli autobus hanno lo schermetto con la fermata. Potete anche controllare l'orario esatto in cui l'autobus arriva alla mia fermata, con una delle app di cui sopra, mettendo la fermata **14248** (e sapendo che il viaggio dura circa 57-61 minuti)  
 Scendendo previo avviso telegrammico troverete me e vi accompagnerò a casa.  
   
