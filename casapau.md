@@ -43,6 +43,7 @@ Una volta in stazione, dovete prendere l'autobus alla corsia 8 per Forno, vedasi
 + [proprietaria GTT](https://play.google.com/store/apps/details?id=it.fivet.gttmobile)  
 
 inserendo la fermata **10001** e guardando la corsa **3092**.  
+Il biglietto si può fare in stazione con l'apposita macchinetta 24/7, premendo "biglietto extraurbano > 6 zone > contanti" al prezzo di 3.30€.  
   
 Scendere alla fermata "S. Bernardino" a Rivara, la maggior parte degli autobus hanno lo schermetto con la fermata. Potete anche controllare l'orario esatto in cui l'autobus arriva alla mia fermata, con una delle app di cui sopra, mettendo la fermata **14248** (e sapendo che il viaggio dura circa 57-61 minuti)  
 Scendendo previo avviso telegrammico troverete me e vi accompagnerò a casa.  
